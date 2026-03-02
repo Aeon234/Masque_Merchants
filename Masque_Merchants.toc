@@ -1,5 +1,5 @@
 ## Interface: 120001, 120000
-## Title: Masque Merchants
+## Title: Masque: Merchants
 ## Notes: Enables skinning for Merchant Items using Masque.
 ## Version: 1.0.0
 ## Author: Aeon
