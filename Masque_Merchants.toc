@@ -9,7 +9,7 @@
 
 ## X-Curse-Project-ID: 
 
-## IconTexture: 4641307
+## IconTexture: 4548891
 ## X-Category: Interface Enhancements
 
 Merchants.lua
