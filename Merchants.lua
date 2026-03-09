@@ -4,7 +4,7 @@ if not MSQ then
 end
 
 -- Merchant Items
-local MerchantGroup = MSQ:Group("Blizzard Merchants", "Merchant Items")
+local MerchantGroup = MSQ:Group("Merchants", "Items")
 for i = 1, 100 do
 	local btn = _G["MerchantItem" .. i .. "ItemButton"]
 	if not btn then
@@ -21,7 +21,7 @@ for i = 1, 100 do
 end
 
 -- Merchant Buyback
-local BuybackGroup = MSQ:Group("Blizzard Merchants", "Merchant Buyback")
+local BuybackGroup = MSQ:Group("Merchants", "Buyback")
 do
 	local btn = MerchantBuyBackItemItemButton
 	if btn and not btn.MasqueButtonData then
